@@ -3,8 +3,10 @@
 # 👋 Hi, I'm Aman Kumar
 
 ### 💻 Computer Science Student | Full-Stack Developer | Problem Solver
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+projects+that+solve+real+problems;Learning+Java+%26+Data+Structures;Exploring+AI+%26+Web+Development;Always+Learning.+Always+Building." alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+projects+that+solve+real+problems;Learning+DSA+%26+Backend+Development;Exploring+AI%2C+Web+Development+%26+Open+Source;Always+Learning.+Always+Building." />
 
 <br>
 
