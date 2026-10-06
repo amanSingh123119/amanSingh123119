@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**amanSingh123119/amanSingh123119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Aman Kumar
 
-Here are some ideas to get you started:
+### 💻 Computer Science Student | Full-Stack Developer | Problem Solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+projects+that+solve+real+problems;Learning+DSA+%26+Backend+Development;Exploring+AI%2C+Web+Development+%26+Open+Source;Always+Learning.+Always+Building." />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=amanSingh123119&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```text
+🎓 Computer Science & Engineering Student
+💻 Interested in Full-Stack Development
+🚀 Building real-world projects
+🧠 Currently improving DSA & Java
+🌐 Exploring Backend Development
+🤖 Interested in AI & emerging technologies
+🌱 Always learning something new
